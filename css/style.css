@@ -83,6 +83,10 @@ main  {
     margin: auto;
 }
 
+main div    {
+    vertical-align: top;
+}
+
 .container p    {
     padding: 20px 40px 50px;
 }
@@ -153,7 +157,6 @@ main  {
     .header-nav ul li   {
         background-color: transparent;
         display: inline-block;
-        width: 20%;
         margin-right: 0;
         margin-left: 0;
         margin-bottom: 10px;
@@ -193,7 +196,7 @@ main  {
     }
 
     .back-to-top    {
-        visibility: hidden;
+        display: none;
     }
 
     .footer-nav {
