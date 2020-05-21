@@ -1,9 +1,11 @@
+/* Universal -------------*/
+
 *   {
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Text ----------*/
+/* Text -------------*/
 body    {
     margin: 0px;
 }
